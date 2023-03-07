@@ -15,7 +15,7 @@ body {
 
 p {
 	color: #b9baec;
-	font-size: 12px;
+	font-size: 16px;
 	margin-bottom: 0.945em;
 }
 
@@ -44,11 +44,21 @@ h6 {
 	color: #6685ff;
 	color: #828024;
 	color: #f1d87c;
+	margin-bottom: 0.545em;
+}
+
+article p {
+	text-indent: 10px;
 }
 
 .container {
 	margin: 0 auto;
-	width: 80%;
+	width: 95%;
+}
+
+.css-article {
+	border: 2px solid #6081ff;
+	padding: 0.8em;
 }
 
 .author-photo {
@@ -58,4 +68,11 @@ h6 {
 
 .posted-by-para {
 	margin-bottom: 0;
+	text-indent: 0;
+	font-size: 12px;
+}
+
+.date-of-post {
+	text-indent: 0;
+	font-size: 12px;
 }
