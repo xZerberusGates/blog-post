@@ -76,3 +76,14 @@ article p {
 	text-indent: 0;
 	font-size: 12px;
 }
+
+.tips-container {
+	background-color: #393a8e;
+	padding: 0.645em;
+	width: 95%;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0.9em;
+	border-top-right-radius: 20px;
+}
