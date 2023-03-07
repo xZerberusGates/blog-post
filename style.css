@@ -1,0 +1,45 @@
+/** @format */
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: sans-serif;
+	background-color: #242582;
+	color: white;
+}
+
+nav {
+	text-align: center;
+	margin-bottom: 0.945em;
+	border: 2px solid #6081ff;
+	padding: 0.7em;
+}
+nav a {
+	color: #f64c72;
+	text-decoration: none;
+	padding: 0.6em;
+}
+
+nav a:hover {
+	color: #f1a6dc;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #6685ff;
+	color: #828024;
+	color: #f1d87c;
+}
+
+.container {
+	margin: 0 auto;
+	width: 80%;
+}
